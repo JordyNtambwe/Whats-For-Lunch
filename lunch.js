@@ -27,7 +27,7 @@ const whatToDoForLunch = function(hungry, availableTime) {
       return;
     }
   } else {
-    console.log("Wait until you're hungry if you're not")
+    console.log("Wait until you're hungry if you're not");
     return;
   }
 };
